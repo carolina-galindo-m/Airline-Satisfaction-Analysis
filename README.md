@@ -3,6 +3,8 @@
 ## Project Overview
 This project analyzes factors influencing airline passenger satisfaction using a dataset of 120,000+ passenger surveys. The goal is to identify key drivers of satisfaction and provide actionable business recommendations.
 
+---
+
 ## Business Problem
 Airlines need to understand what drives passenger satisfaction to improve service quality, increase customer loyalty, and reduce churn in a highly competitive market.
 
@@ -17,7 +19,7 @@ The dataset contains passenger survey responses including:
 - Flight operations (Departure/Arrival Delays)
 - Overall satisfaction (Satisfied/Neutral or dissatisfied)
 
-## Key Findings
+## 📊 Key Findings
 
 ### 1. Service Quality Drivers
 - **Online boarding experience** is the strongest predictor of satisfaction (correlation: 0.59)
@@ -44,6 +46,8 @@ The dataset contains passenger survey responses including:
   4. Type of Travel (Business)
   5. Class (Business)
 
+  --- 
+
 ## Technologies Used
 - **Python 3.8+**
 - **Data Analysis**: Pandas, NumPy
@@ -60,7 +64,9 @@ The dataset contains passenger survey responses including:
 3. Run each notebook sequentially (01 → 02 → 03)
 4. Download the dataset from Kaggle and upload to Colab when prompted
 
-## Business Recommendations
+---
+
+## 🎯 Business Recommendations
 
 ### Immediate Actions (0-3 months)
 1. Improve online boarding process - streamline digital check-in and mobile boarding passes
@@ -83,7 +89,6 @@ The dataset contains passenger survey responses including:
 - Add time series analysis to track satisfaction trends
 - Incorporate external data (weather, economic factors)
 
-## About the Author
-Carolina Galindo Mendoza - Data Analytics enthusiast with background in business analytics. Connect with me on LinkedIn or view my other projects on GitHub.
+---
 
 The code and analysis in this repository are licensed under the MIT License - see the LICENSE file for details.
