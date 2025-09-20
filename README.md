@@ -1,7 +1,7 @@
 # Airline-Satisfaction-Analysis
 
 ## Project Overview
-This project analyzes factors influencing airline passenger satisfaction using a dataset of 120,000+ passenger surveys. The goal is to identify key drivers of satisfaction and provide actionable business recommendations.
+This project analyzes factors influencing airline passenger satisfaction using a dataset of 103,000+ passenger surveys. The goal is to identify key drivers of satisfaction and provide actionable business recommendations.
 
 ---
 
@@ -9,7 +9,7 @@ This project analyzes factors influencing airline passenger satisfaction using a
 Airlines need to understand what drives passenger satisfaction to improve service quality, increase customer loyalty, and reduce churn in a highly competitive market.
 
 ## Dataset
-Source: [Kaggle - Airline Passenger Satisfaction](https://www.kaggle.com/datasets/teejmahal20/airline-passenger-satisfaction)
+Source: [Kaggle - Airline Passenger Satisfaction](https://www.kaggle.com/datasets/teejmahal20/airline-passenger-satisfaction?select=train.csv)
 Liscense: Please refer to the original source for dataset licensing information.
 
 The dataset contains passenger survey responses including:
